@@ -1,6 +1,6 @@
 export const plansContent = [
   {
-    description: "R$ 210,00",
+    description: "R$ 100,00",
     title: "Consulta Mensal",
     src: "/monthly-guidance.jpg",
     ctaText: "Saiba mais",
@@ -20,7 +20,7 @@ export const plansContent = [
     },
   },
   {
-    description: "R$ 630,00",
+    description: "R$ 100,00",
     title: "Consulta Trimestral",
     src: "/quartely-guidance.jpg",
     ctaText: "Saiba mais",
@@ -41,7 +41,7 @@ export const plansContent = [
   },
 
   {
-    description: "‌R$ 115,50",
+    description: "R$ 100,00",
     title: "Orientação Nutricional",
     src: "/orientation.jpg",
     ctaText: "Saiba mais",
@@ -54,7 +54,7 @@ export const plansContent = [
     },
   },
   {
-    description: "R$ 262,50",
+    description: "R$ 100,00",
     title: "Plano Alimentar Semanal",
     src: "/coffe.jpg",
     ctaText: "Saiba mais",
@@ -79,7 +79,7 @@ export const plansContent = [
     },
   },
   {
-    description: "‌‌‌‌‌R$ 105,00",
+    description: "R$ 100,00",
     title: "Bioimpedância",
     src: "/weight-scale.jpg",
     ctaText: "Saiba mais",
@@ -99,7 +99,7 @@ export const plansContent = [
     },
   },
   {
-    description: "‌‌‌‌‌R$ 315,00",
+    description: "R$ 100,00",
     title: "Lista de Compras",
     src: "/grocery-shopping.jpg",
     ctaText: "Saiba mais",
@@ -116,7 +116,7 @@ export const plansContent = [
     },
   },
   {
-    description: "‌‌‌‌‌R$ 50,00",
+    description: "R$ 100,00",
     title: "Consulta Social",
     src: "/community.jpg",
     ctaText: "Saiba mais",
